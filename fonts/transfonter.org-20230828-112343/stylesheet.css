@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Kemcopixel';
+    src: url('KemcoPixelBold.woff2') format('woff2'),
+        url('KemcoPixelBold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Depixel';
+    src: url('DePixel-Bold.woff2') format('woff2'),
+        url('DePixel-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Depixel';
+    src: url('DePixel-Klein.woff2') format('woff2'),
+        url('DePixel-Klein.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
